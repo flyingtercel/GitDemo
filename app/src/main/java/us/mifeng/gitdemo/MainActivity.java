@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //这是我的第一次修改
         //这是分支创建之后提交的东西
         //这是第二次分支提交的信息
+        //向第二个分支中提交信息
     }
 }
